@@ -1,4 +1,4 @@
-python 3.8.5
+python 3.6.15
 
 pip install plotly
 pip install wwo-hist
