@@ -1,3 +1,3 @@
-install-plotly
-install-wwo-hist
-install-pandas
+plotly
+wwo-hist
+pandas
