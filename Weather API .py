@@ -7,10 +7,9 @@
 # the code of the API
 # https://github.com/ekapope/WorldWeatherOnline
 
-# pip install plotly
-
-# pip install wwo-hist
-
+pip install plotly
+pip install wwo-hist
+pip install dash
 
 
 
