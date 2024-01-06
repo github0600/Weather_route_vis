@@ -96,9 +96,9 @@ def converter(coordinations):
 
 
 frequency=24
-start_date = '01-JUNE-2019'
-end_date = '01-JUNE-2020'
-api_key = '34801822cbb44f8fb8d170233221202'
+start_date = '01-JUNE-2022'
+end_date = '01-JUNE-2023'
+api_key = '947ff5bf43244831b7b195325240601'
 
 
 locations_list = converter(coordinations)
